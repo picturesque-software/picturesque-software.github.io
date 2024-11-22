@@ -62,7 +62,20 @@
  
  &lt;i class="fa fa-external-link-alt">&lt;/i>
  
-&lt;/a>。&lt;/p></description></item><item><title>Markdown 语法支持</title><link>https://picturesque-software.github.io/demo/markdown-syntax.html</link><pubDate>Wed, 16 Oct 2024 11:52:18 +0800</pubDate><guid>https://picturesque-software.github.io/demo/markdown-syntax.html</guid><description>&lt;p>仅以此篇文章来测试下在 &lt;code>NexT&lt;/code> 主题中在通过 &lt;code>Hugo&lt;/code> 引擎来建站时，是否支持 &lt;code>Markdown&lt;/code> 文件内容中所写的各种语法，并展示下实际的效果。&lt;/p></description></item><item><title>站点示例</title><link>https://picturesque-software.github.io/flinks.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://picturesque-software.github.io/flinks.html</guid><description>&lt;p>如想交换本站友情链接，请在评论区留下你的站点信息，格式参考如下：&lt;/p>
+&lt;/a>。&lt;/p></description></item><item><title>Markdown 语法支持</title><link>https://picturesque-software.github.io/demo/markdown-syntax.html</link><pubDate>Wed, 16 Oct 2024 11:52:18 +0800</pubDate><guid>https://picturesque-software.github.io/demo/markdown-syntax.html</guid><description>&lt;p>仅以此篇文章来测试下在 &lt;code>NexT&lt;/code> 主题中在通过 &lt;code>Hugo&lt;/code> 引擎来建站时，是否支持 &lt;code>Markdown&lt;/code> 文件内容中所写的各种语法，并展示下实际的效果。&lt;/p></description></item><item><title/><link>https://picturesque-software.github.io/post/distribution-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://picturesque-software.github.io/post/distribution-id/</guid><description>&lt;p>-&amp;ndash;&lt;/p>
+&lt;p>title: &amp;ldquo;分布式ID生成&amp;rdquo;&lt;/p>
+&lt;p>description: &amp;ldquo;从分布式ID生成的角度来说明如何提升高可用性&amp;rdquo;&lt;/p>
+&lt;p>isCJKLanguage: false&lt;/p>
+&lt;p>lastmod: 2024-11-22T11:42:18+08:00&lt;/p>
+&lt;p>publishDate: 2024-11-22T11:42:18+08:00&lt;/p>
+&lt;p>author: Jimmie&lt;/p>
+&lt;p>originLink: 
+&lt;a href="https://mainroad-demo.netlify.app/demo/basic-elements/" title="https://mainroad-demo.netlify.app/demo/basic-elements/" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ https://mainroad-demo.netlify.app/demo/basic-elements/
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>&lt;/p></description></item><item><title>站点示例</title><link>https://picturesque-software.github.io/flinks.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://picturesque-software.github.io/flinks.html</guid><description>&lt;p>如想交换本站友情链接，请在评论区留下你的站点信息，格式参考如下：&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>- &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#ae81ff">Hugo-NexT&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">desc&lt;/span>: &lt;span style="color:#ae81ff">Hugo NexT 官方预览网站。&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">avatar&lt;/span>: &lt;span style="color:#ae81ff">https://hugo-next.eu.org/imgs/hugo_next_avatar.png&lt;/span>
