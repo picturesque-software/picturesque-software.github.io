@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on JimmieWang</title><link>https://picturesque-software.github.io/post/</link><description>Recent content in Posts on JimmieWang</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Wed, 30 Oct 2024 21:03:16 +0800</lastBuildDate><atom:link href="https://picturesque-software.github.io/post/rss.xml" rel="self" type="application/rss+xml"/><item><title>欢迎加入 Hugo NexT 组织！</title><link>https://picturesque-software.github.io/post/external-link/</link><pubDate>Wed, 16 Oct 2024 15:59:41 +0800</pubDate><guid>https://picturesque-software.github.io/post/external-link/</guid><description>&lt;p>欢迎来到 &lt;code>Hugo NexT&lt;/code> 文档站点！ 它是从 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on JimmieWang</title><link>https://picturesque-software.github.io/post/</link><description>Recent content in Posts on JimmieWang</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Fri, 22 Nov 2024 11:42:18 +0800</lastBuildDate><atom:link href="https://picturesque-software.github.io/post/rss.xml" rel="self" type="application/rss+xml"/><item><title>欢迎加入 Hugo NexT 组织！</title><link>https://picturesque-software.github.io/post/external-link/</link><pubDate>Wed, 16 Oct 2024 15:59:41 +0800</pubDate><guid>https://picturesque-software.github.io/post/external-link/</guid><description>&lt;p>欢迎来到 &lt;code>Hugo NexT&lt;/code> 文档站点！ 它是从 
 &lt;a href="https://theme-next.js.org/" title="Theme NexT" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
  Theme NexT
  
@@ -22,7 +22,44 @@
  
  &lt;i class="fa fa-external-link-alt">&lt;/i>
  
-&lt;/a> 是现今世界上最快的网站建设框架，也是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让建设网站再次变得有趣起来。&lt;/p></description></item><item><title>文章目录导航</title><link>https://picturesque-software.github.io/demo/table-of-content.html</link><pubDate>Thu, 17 Oct 2024 21:12:52 +0800</pubDate><guid>https://picturesque-software.github.io/demo/table-of-content.html</guid><description>&lt;p>巴顿将军说过：“衡量一个人是否成功，不是看他站到顶峰，而是从顶峰跌落之后的反弹力”，褚时健的人生便是如此，中年发家致富，名利双收，之后又跌落到谷底，等到74岁再创业，10年后带着褚橙归来，东山再起收获亿万财富，他的发展轨迹就是反弹的过程。&lt;/p></description></item><item><title>支持用户自定义设计</title><link>https://picturesque-software.github.io/demo/custom-files.html</link><pubDate>Thu, 17 Oct 2024 21:02:32 +0800</pubDate><guid>https://picturesque-software.github.io/demo/custom-files.html</guid><description>&lt;p>对于熟悉前端开发的用户来说，可以通过自定义文件配置，实现对站点的样式和布局进行个性化的调整。其中布局方面主要是支持左侧边栏的站点概览部分，以及站点底部2个位置，但样式的重置可以是整个站点的任意位置。&lt;/p></description></item><item><title>Mermaid支持流程图</title><link>https://picturesque-software.github.io/demo/mermaid-charts.html</link><pubDate>Thu, 17 Oct 2024 20:58:13 +0800</pubDate><guid>https://picturesque-software.github.io/demo/mermaid-charts.html</guid><description>&lt;p>本主题已支持 &lt;code>Mermaid&lt;/code> 实现以纯文本的方式绘制流程图、序列图、甘特图、状态图、关系图行等等，随着 &lt;code>Mermaid&lt;/code> 也在逐步发展，后续还会有各种各样的图被引入进来，更多的类型及使用方式可关注其官方网站：
+&lt;/a> 是现今世界上最快的网站建设框架，也是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让建设网站再次变得有趣起来。&lt;/p></description></item><item><title>分布式ID生成</title><link>https://picturesque-software.github.io/distribution/distribution-id.html</link><pubDate>Fri, 22 Nov 2024 11:42:18 +0800</pubDate><guid>https://picturesque-software.github.io/distribution/distribution-id.html</guid><description>&lt;h1 id="分布式id生成策略">分布式ID生成策略
+&lt;a class="header-anchor" href="#%e5%88%86%e5%b8%83%e5%bc%8fid%e7%94%9f%e6%88%90%e7%ad%96%e7%95%a5">&lt;/a>
+&lt;/h1>&lt;p>&lt;strong># 标题 1&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>## 标题 2&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>### 标题 3&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>#### 标题 4&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>##### 标题 5&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>###### 标题 6&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>## 段落格式&lt;/strong>&lt;/p>
+&lt;p>根据
+&lt;a href="https://www.w3.org/" title=" W3C " rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ W3C 
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>定义的
+&lt;a href="https://www.w3.org/TR/html5/dom.html#elements" title=" HTML5 规范" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ HTML5 规范
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>，&lt;em>&lt;strong>*HTML 文档由元素和文本组成*&lt;/strong>&lt;/em>。每个元素的组成都由一个
+&lt;a href="https://www.w3.org/TR/html5/syntax.html#syntax-start-tags" title="开始标记" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ 开始标记
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>表示，例如： &lt;code>&amp;lt;body&amp;gt;&lt;/code> ，和
+&lt;a href="https://www.w3.org/TR/html5/syntax.html#syntax-end-tags" title="结束标记" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
+ 结束标记
+ 
+ &lt;i class="fa fa-external-link-alt">&lt;/i>
+ 
+&lt;/a>表示，例如： &lt;code>&amp;lt;/body&amp;gt;&lt;/code> 。（&lt;strong>某些开始标记和结束标记在某些情况下可以省略，并由其他标记暗示。&lt;/strong>）&lt;/p>
+&lt;p>元素可以具有属性，这些属性控制元素的工作方式。例如：超链接是使用 &lt;code>a&lt;/code> 元素及其 &lt;code>href&lt;/code> 属性形成的。&lt;/p>
+&lt;p>&lt;strong>### Markdown 语法&lt;/strong>&lt;/p>
+&lt;p>```markdown&lt;/p>
+&lt;p>&lt;img src="https://picturesque-software.github.io/imgs/img-lazy-loading.gif" data-src="%e5%9b%be%e5%83%8f%e5%9c%b0%e5%9d%80" alt="图像说明" />&lt;/p></description></item><item><title>文章目录导航</title><link>https://picturesque-software.github.io/demo/table-of-content.html</link><pubDate>Thu, 17 Oct 2024 21:12:52 +0800</pubDate><guid>https://picturesque-software.github.io/demo/table-of-content.html</guid><description>&lt;p>巴顿将军说过：“衡量一个人是否成功，不是看他站到顶峰，而是从顶峰跌落之后的反弹力”，褚时健的人生便是如此，中年发家致富，名利双收，之后又跌落到谷底，等到74岁再创业，10年后带着褚橙归来，东山再起收获亿万财富，他的发展轨迹就是反弹的过程。&lt;/p></description></item><item><title>支持用户自定义设计</title><link>https://picturesque-software.github.io/demo/custom-files.html</link><pubDate>Thu, 17 Oct 2024 21:02:32 +0800</pubDate><guid>https://picturesque-software.github.io/demo/custom-files.html</guid><description>&lt;p>对于熟悉前端开发的用户来说，可以通过自定义文件配置，实现对站点的样式和布局进行个性化的调整。其中布局方面主要是支持左侧边栏的站点概览部分，以及站点底部2个位置，但样式的重置可以是整个站点的任意位置。&lt;/p></description></item><item><title>Mermaid支持流程图</title><link>https://picturesque-software.github.io/demo/mermaid-charts.html</link><pubDate>Thu, 17 Oct 2024 20:58:13 +0800</pubDate><guid>https://picturesque-software.github.io/demo/mermaid-charts.html</guid><description>&lt;p>本主题已支持 &lt;code>Mermaid&lt;/code> 实现以纯文本的方式绘制流程图、序列图、甘特图、状态图、关系图行等等，随着 &lt;code>Mermaid&lt;/code> 也在逐步发展，后续还会有各种各样的图被引入进来，更多的类型及使用方式可关注其官方网站：
 &lt;a href="https://mermaid-js.github.io/" title="https://mermaid-js.github.io/" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
  https://mermaid-js.github.io/
  
@@ -59,17 +96,4 @@
  
  &lt;i class="fa fa-external-link-alt">&lt;/i>
  
-&lt;/a>。&lt;/p></description></item><item><title>Markdown 语法支持</title><link>https://picturesque-software.github.io/demo/markdown-syntax.html</link><pubDate>Wed, 16 Oct 2024 11:52:18 +0800</pubDate><guid>https://picturesque-software.github.io/demo/markdown-syntax.html</guid><description>&lt;p>仅以此篇文章来测试下在 &lt;code>NexT&lt;/code> 主题中在通过 &lt;code>Hugo&lt;/code> 引擎来建站时，是否支持 &lt;code>Markdown&lt;/code> 文件内容中所写的各种语法，并展示下实际的效果。&lt;/p></description></item><item><title/><link>https://picturesque-software.github.io/post/distribution-id/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://picturesque-software.github.io/post/distribution-id/</guid><description>&lt;p>-&amp;ndash;&lt;/p>
-&lt;p>title: &amp;ldquo;分布式ID生成&amp;rdquo;&lt;/p>
-&lt;p>description: &amp;ldquo;从分布式ID生成的角度来说明如何提升高可用性&amp;rdquo;&lt;/p>
-&lt;p>isCJKLanguage: false&lt;/p>
-&lt;p>lastmod: 2024-11-22T11:42:18+08:00&lt;/p>
-&lt;p>publishDate: 2024-11-22T11:42:18+08:00&lt;/p>
-&lt;p>author: Jimmie&lt;/p>
-&lt;p>originLink: 
-&lt;a href="https://mainroad-demo.netlify.app/demo/basic-elements/" title="https://mainroad-demo.netlify.app/demo/basic-elements/" rel="noopener external nofollow noreferrer" target="_blank" class=" exturl">
- https://mainroad-demo.netlify.app/demo/basic-elements/
- 
- &lt;i class="fa fa-external-link-alt">&lt;/i>
- 
-&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;/a>。&lt;/p></description></item><item><title>Markdown 语法支持</title><link>https://picturesque-software.github.io/demo/markdown-syntax.html</link><pubDate>Wed, 16 Oct 2024 11:52:18 +0800</pubDate><guid>https://picturesque-software.github.io/demo/markdown-syntax.html</guid><description>&lt;p>仅以此篇文章来测试下在 &lt;code>NexT&lt;/code> 主题中在通过 &lt;code>Hugo&lt;/code> 引擎来建站时，是否支持 &lt;code>Markdown&lt;/code> 文件内容中所写的各种语法，并展示下实际的效果。&lt;/p></description></item></channel></rss>

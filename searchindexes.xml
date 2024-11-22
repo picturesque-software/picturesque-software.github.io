@@ -3,7 +3,83 @@
 反馈访问 Awesome NexT 列表，与其他用户分享插件和教程。 加入我们的 Gitter 聊天。 在几秒钟内添加或改进翻译。 在 GitHub Issues 中报告一个 &amp;#x1f41b;。 在 GitHub 上申请一个新特性。 为最受欢迎的功能请求投票。   </content></entry><entry><title>世界，你好！</title><url>/demo/hello-world.html</url><categories><category>开始建站</category></categories><tags><tag>Hugo</tag><tag>开始</tag></tags><content type="html">   “使用 weight 关键字置顶文章。”
 Hugo是现今世界上最快的网站建设框架，也是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让建设网站再次变得有趣起来。
 快速开始发表新文章$ hugo new hello-world.md 更多信息：内容格式启动服务$ hugo server 更多信息：Hugo 服务命令行生成静态文件$ hugo 更多信息：Hugo 建站部署到服务器$ hugo deploy 更多信息：Hugo 发布祝你好运，相信你会喜欢上 Hugo 建站的旅程！
-  </content></entry><entry><title>文章目录导航</title><url>/demo/table-of-content.html</url><categories><category>示例文章</category></categories><tags><tag>目录</tag><tag>导航</tag><tag>博客</tag></tags><content type="html">  巴顿将军说过：“衡量一个人是否成功，不是看他站到顶峰，而是从顶峰跌落之后的反弹力”，褚时健的人生便是如此，中年发家致富，名利双收，之后又跌落到谷底，等到74岁再创业，10年后带着褚橙归来，东山再起收获亿万财富，他的发展轨迹就是反弹的过程。
+  </content></entry><entry><title>分布式ID生成</title><url>/distribution/distribution-id.html</url><categories><category>分布式系统</category></categories><tags><tag>分布式</tag></tags><content type="html"><![CDATA[  分布式ID生成策略# 标题 1
+## 标题 2
+### 标题 3
+#### 标题 4
+##### 标题 5
+###### 标题 6
+## 段落格式
+根据W3C 定义的HTML5 规范，*HTML 文档由元素和文本组成*。每个元素的组成都由一个开始标记表示，例如： &lt;body&gt; ，和结束标记表示，例如： &lt;/body&gt; 。（某些开始标记和结束标记在某些情况下可以省略，并由其他标记暗示。）
+元素可以具有属性，这些属性控制元素的工作方式。例如：超链接是使用 a 元素及其 href 属性形成的。
+### Markdown 语法
+```markdown
+```
+### HTML IMG 标签
+```html
+```
+### SVG 格式
+```html
+xxxxxx
+```
+## 列表类型
+### 有序列表
+\1. 第一个元素
+\2. 第二个元素
+\3. 第三个元素
+### 无序列表
+* 列表元素
+* 另一个元素
+* 和其它元素
+### 嵌套列表
+借助 HTML 的 ul 元素来实现。
+第一项第二项第二项第一个子项目第二项第二个子项目​ ​ 第二项第二分项第一分项
+​ 第二项第二分项第二分项
+​ 第二项第二分项第三分项
+​ 第二项第三个子项目​ ​ 第二项第三分项第一分项
+​ 第二项第三分项第二分项
+​ 第二项第三分项第三分项
+​ 第三项### 自定义列表
+通过 HTML 的 dl 元素还支持自定义列表（表格列表）。
+Hugo 目录结构assetsconfig.tomlcontentdatathemestaticHugo 模板基础模板列表模板单页模板## 块引用
+blockquote 元素表示从另一个源引用的内容，可以选择引用必须在 footer 或 cite 元素中，也可以选择使用注释和缩写等行内更改。
+&gt; 引用文本
+&gt; 这一行也是同样的引用
+&gt; 同样你也在 blockquote 中使用 *Markdown* 语法书写
+带有引文的 Blockquote 元素效果。
+我的目标不是赚大钱,是为了制造好的电脑。当我意识到我可以永远当工程师时，我才创办了这家公司。
+— 史蒂夫·沃兹尼亚克根据 Mozilla 的网站记录，Firefox 1.0 于 2004 年发布，并取得了巨大成功。
+## 表格
+表格并不算是 Markdown 的核心要素，但 Hugo 同样支持它。
+| ID | 创建者 | 模型 | 年份 |
+| &mdash; | &mdash;&mdash;&mdash; | &mdash;&mdash;- | &mdash;- |
+| 1 | Honda | Accord | 2009 |
+| 2 | Toyota | Camry | 2012 |
+| 3 | Hyundai | Elantra | 2010 |
+可以使用 : （英文格式冒号）来对表格内容进行对齐。
+| 表格 | 可以是 | 很酷 |
+|:&mdash;&ndash; |:&mdash;&ndash;:| &mdash;-:|
+| 左对齐 | 居中 | 右对齐 |
+| 左对齐 | 居中 | 右对齐 |
+| 左对齐 | 居中 | 右对齐 |
+同样也可以在表格中使用 Markdown 语法。
+| 表格 | 中 | 使用 | Markdown 语法 |
+| &mdash;&mdash; | &mdash;&mdash;&mdash; | &mdash;&mdash;&mdash;- | &mdash;&mdash;&mdash;&mdash;- |
+| 斜体 | *粗体* | 中划线 | 代码块 |
+## Code
+```html
+<!DOCTYPE html>Example HTML5 DocumentTest
+```
+&lt;!DOCTYPE html&gt; &lt;html lang=&#34;en&#34;&gt; &lt;head&gt; &lt;meta charset=&#34;UTF-8&#34;&gt; &lt;title&gt;Example HTML5 Document&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;p&gt;Test&lt;/p&gt; &lt;/body&gt; &lt;/html&gt; ## 其它元素： abbr、sub、sup、kbd等等
+GIF 是位图图像格式。
+H2O
+C6H12O6
+Xn + Yn = Zn
+按X获胜。或按CTRL+ALT+F显示 FPS 计数器。
+比特作为信息论中的信息单位，也被称为 shannon ，以信息论领域的创始人 Claude shannon 的名字命名。
+参考：
+- 来自 *Mainroad* 主题的 Basic Elements内容
+  ]]></content></entry><entry><title>文章目录导航</title><url>/demo/table-of-content.html</url><categories><category>示例文章</category></categories><tags><tag>目录</tag><tag>导航</tag><tag>博客</tag></tags><content type="html">  巴顿将军说过：“衡量一个人是否成功，不是看他站到顶峰，而是从顶峰跌落之后的反弹力”，褚时健的人生便是如此，中年发家致富，名利双收，之后又跌落到谷底，等到74岁再创业，10年后带着褚橙归来，东山再起收获亿万财富，他的发展轨迹就是反弹的过程。
 早年的故事起始2014年的春天，在云南省华宁县和宜良县的交界处，一座名叫矣则的小山村里，一处已经有上百年历史的古旧四合院宅子被拆掉。村委会正带领村民们进行“美丽乡村”的建设，一年以后，旧有村居将再也看不到，代之而起的是钢筋混凝土的新式民居。就像10年、20年前中国大小城市的改造一样，这个群山围绕的小村子也开始陷入“工地模式”。
 童年浪花在江河边长大的孩子几乎都有一个当仁不让的特长：善水。褚时健也不例外，他不仅从小就在南盘江和花鱼塘里扑腾出了上佳的游泳技术，五六岁已经可以一个猛子扎出老远，而且从七八岁就可以在南盘江和河滩上的鱼塘里捉鱼了。
 少年故事褚时健在乡村自由自在生活的十多年，其实正是中国社会风雨飘摇的十多年。特别是1937年卢沟桥事变后，日本人发动全面侵华战争，短短两三年间，中国的大部分国土相继沦陷
@@ -115,57 +191,5 @@ Xn + Yn = Zn
 按X获胜。或按CTRL+ALT+F显示 FPS 计数器。
 比特作为信息论中的信息单位，也被称为 shannon ，以信息论领域的创始人 Claude shannon 的名字命名。
 参考：
-来自 Mainroad 主题的 Basic Elements内容   ]]></content></entry><entry><title/><url>/post/distribution-id/</url><categories/><tags/><content type="html"><![CDATA[  -&amp;ndash;
-title: &amp;ldquo;分布式ID生成&amp;rdquo;
-description: &amp;ldquo;从分布式ID生成的角度来说明如何提升高可用性&amp;rdquo;
-isCJKLanguage: false
-lastmod: 2024-11-22T11:42:18+08:00
-publishDate: 2024-11-22T11:42:18+08:00
-author: Jimmie
-originLink: https://mainroad-demo.netlify.app/demo/basic-elements/categories:
-- 分布式系统
-tags:
-- 分布式
-toc: false
-draft: false
-url: distribution/distribution-id.html
--&amp;ndash;
-分布式ID生成策略# 标题 1
-## 标题 2
-### 标题 3
-#### 标题 4
-##### 标题 5
-###### 标题 6
-## 段落格式
-根据W3C 定义的HTML5 规范，*HTML 文档由元素和文本组成*。每个元素的组成都由一个开始标记表示，例如： &amp;lt;body&amp;gt; ，和结束标记表示，例如： &amp;lt;/body&amp;gt; 。（某些开始标记和结束标记在某些情况下可以省略，并由其他标记暗示。）
-元素可以具有属性，这些属性控制元素的工作方式。例如：超链接是使用 a 元素及其 href 属性形成的。
-### Markdown 语法
-```markdown
-```
-### HTML IMG 标签
-```html
-```
-### SVG 格式
-```html
-xxxxxx
-```
-## 列表类型
-### 有序列表
-\1. 第一个元素
-\2. 第二个元素
-\3. 第三个元素
-### 无序列表
-* 列表元素
-* 另一个元素
-* 和其它元素
-### 嵌套列表
-借助 HTML 的 ul 元素来实现。
-第一项第二项第二项第一个子项目第二项第二个子项目​ ​ 第二项第二分项第一分项
-​ 第二项第二分项第二分项
-​ 第二项第二分项第三分项
-​ 第二项第三个子项目​ ​ 第二项第三分项第一分项
-​ 第二项第三分项第二分项
-​ 第二项第三分项第三分项
-​ 第三项### 自定义列表
-通过 HTML 的 dl 元素还支持自定义列 …  ]]></content></entry><entry><title>站点示例</title><url>/flinks.html</url><categories/><tags/><content type="html">  如想交换本站友情链接，请在评论区留下你的站点信息，格式参考如下：
+来自 Mainroad 主题的 Basic Elements内容   ]]></content></entry><entry><title>站点示例</title><url>/flinks.html</url><categories/><tags/><content type="html">  如想交换本站友情链接，请在评论区留下你的站点信息，格式参考如下：
 - name: Hugo-NexT desc: Hugo NexT 官方预览网站。 avatar: https://hugo-next.eu.org/imgs/hugo_next_avatar.png link: https://hugo-next.eu.org   </content></entry></search>
